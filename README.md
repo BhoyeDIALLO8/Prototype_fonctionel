@@ -33,4 +33,4 @@ Application d'analyse des avis clients utilisant des techniques avancées de NLP
 - Clés API pour :
   - Google Places API
   - OpenAI API
-  - Trustpilot API (optionnel)
+  - Trustpilot API
